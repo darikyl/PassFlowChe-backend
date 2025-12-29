@@ -1,0 +1,16 @@
+# Maven
+target/
+*.log
+
+# IntelliJ
+.idea/
+*.iml
+out/
+
+# Env
+.env
+application-*.yml
+
+# OS
+.DS_Store
+Thumbs.db
